@@ -11,7 +11,7 @@ const Hero = () => {
           type="button"
           className="black_btn"
           onClick={() => {
-            window.open("https://github.com/YatharthDixit");
+            window.open("https://github.com/YatharthDixit/AI-Summerizer-React");
           }}
         >
           Github
